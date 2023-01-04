@@ -158,6 +158,14 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
+				<string>CaseySJ - ALC1220 5.1 Channel Surround for Gigabyte Z390 Designare</string>
+				<key>Id</key>
+				<integer>40</integer>
+				<key>Path</key>
+				<string>layout40.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>Custom ALC1220 for Mi Gaming Notebook Creator by Xsixu</string>
 				<key>Id</key>
 				<integer>98</integer>
@@ -334,6 +342,14 @@
 				<integer>35</integer>
 				<key>Path</key>
 				<string>Platforms35.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>CaseySJ - ALC1220 5.1 Channel Surround for Gigabyte Z390 Designare</string>
+				<key>Id</key>
+				<integer>40</integer>
+				<key>Path</key>
+				<string>Platforms40.xml.zlib</string>
 			</dict>
 			<dict>
 				<key>Comment</key>

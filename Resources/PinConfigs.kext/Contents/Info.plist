@@ -7718,6 +7718,20 @@
 					<key>CodecID</key>
 					<integer>283906592</integer>
 					<key>CodecName</key>
+					<string>CaseySJ - ALC1220 5.1 Channel Surround for Gigabyte Z390 Designare</string>
+					<key>ConfigData</key>
+					<data>AUccEAFHHQEBRx4QAUcfkAFXHBIBVx0BAVceEAFXH5ABZxwRAWcdAQFnHhABZx+QAYccQAGHHZABhx6gAYcfkAGXHFABlx2QAZcegQGXHwIBpxygAacdMAGnHoEBpx8BAbccIAG3HUABtx4hAbcfAgHnHDAB5x0gAeceSwHnHwE=</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>40</integer>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
+					<key>CodecID</key>
+					<integer>283906592</integer>
+					<key>CodecName</key>
 					<string>Custom ALC1220 for Mi Gaming Notebook Creator by Xsixu</string>
 					<key>ConfigData</key>
 					<data>AaccEAGnHQEBpx4XAacfkAFHHCABRx0QAUceIQFHHwABRwwCASccMAEnHREBJx6mAScfkAGXHGABlx0AAZcegQGXHwABlwwC</data>
