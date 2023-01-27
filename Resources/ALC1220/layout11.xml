@@ -1,6 +1,6 @@
 <dict>
 	<key>LayoutID</key>
-	<integer>1</integer>
+	<integer>11</integer>
 	<key>PathMapRef</key>
 	<array>
 		<dict>
@@ -471,7 +471,7 @@
 				<string>SPDIFOut</string>
 			</array>
 			<key>PathMapID</key>
-			<integer>1220</integer>
+			<integer>11</integer>
 			<key>SPDIFOut</key>
 			<dict/>
 		</dict>
