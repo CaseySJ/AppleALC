@@ -8080,7 +8080,7 @@
 					<key>CodecName</key>
 					<string>Realtek ALC S1220A 5.1 Surround for Asus ProArt Z690-Creator WiFi (CaseySJ)</string>
 					<key>ConfigData</key>
-					<data>AUccEAFHHQEBRx4QAUcfkAFHDAIBVxwSAVcdAQFXHhABVx+QAWccEQFnHQEBZx4QAWcfkAGHHEABhx2QAYceoAGHH5ABlxxQAZcdkAGXHoEBlx8CAaccYAGnHTABpx6BAacfAQG3HHABtx1AAbceIQG3HwIBtwwC</data>
+					<data>AUccEAFHHQEBRx4QAUcfkAFHDAIBVxwSAVcdAQFXHhABVx+QAWccEQFnHQEBZx4QAWcfkAGHHEABhx2QAYceoAGHH5ABlxxQAZcdkAGXHoEBlx8CAaccTwGnHTABpx6BAacfAQG3HHABtx1AAbceIQG3HwIBtwwC</data>
 					<key>FuncGroup</key>
 					<integer>1</integer>
 					<key>LayoutID</key>
